@@ -102,7 +102,7 @@
     /* padding: 0; */
     min-height: calc(200vh - 3rem - 20vh);
     /* background-color: black; */
-    min-width: -webkit-fill-available;
+    min-width: 109%;
   }
 .btn-01{
   position: relative;
